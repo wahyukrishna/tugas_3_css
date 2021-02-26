@@ -1,0 +1,20 @@
+p{
+  background-color: grey;
+}
+p.p1{
+  background-color: orange;
+}
+p.p2{
+  background-color: blue;
+  color: white;
+}
+p.p3{
+  font-family: monospace;
+  font-size: 20px;
+  background-color: white;
+}
+p.p4{
+  font-family: serif;
+  font-size: 18px;
+  font-weight: bold;
+}
